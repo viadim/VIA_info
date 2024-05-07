@@ -1,26 +1,49 @@
 # Table of contents
 
-* [VIA Main page](README.md)
+* [🏡 VIA Main Page](README.md)
 
-## 📘 Terms-of-use <a href="#tou" id="tou"></a>
+## 🇷🇺 RU
 
-* [Main](tou/main.md)
-* [AI](tou/ai.md)
-* [©️ Copyright](tou/copyright.md)
+* [🏠 Главная страница](ru/home\_page.md)
+* [🔘 Условия использования](ru/tos/README.md)
+  * [🔵 Плагины](ru/tos/plugins.md)
 
-## 🦹 AI
+## 🇺🇸 EN
 
-* [Sveta AI](ai/sveta-ai.md)
+* [🏠 Home page](en/home\_page.md)
+* [🔘 Terms of Service](en/tos/README.md)
+  * [🔵 Plugins](en/tos/plugins.md)
 
-## 📕 Commands
+## 🇧🇾 BE
 
-* [Main Commands](commands/main-commands.md)
-* [Beta Commands](commands/beta-commands.md)
+* [🏠 Галоўная старонка](be/home\_page.md)
+* [🔘 Ўмовы абслугоўвання](be/tos/README.md)
+  * [🔵 Плагіны](be/tos/plugins.md)
 
-## ⚠️ Решение возможных Ошибок <a href="#errors" id="errors"></a>
+## 🇺🇦 UK
 
-* [VIA\_TELEGRAM\_IU\_403](errors/via\_telegram\_iu\_403.md)
+* [🏠 Головна сторінка](uk/home\_page.md)
+* [🔘 Умови обслуговування](uk/tos/README.md)
+  * [🔵 Плагіни](uk/tos/plugins.md)
 
-## 🕒 Updates <a href="#update_info" id="update_info"></a>
+## 🇩🇪 DE
 
-* [Last Update](update\_info/last-update.md)
+* [🏠 Hauptseite](de/home\_page.md)
+* [🔘 Servicebedingungen](de/tos/README.md)
+  * [🔵 Plugins](de/tos/plugins.md)
+
+## 🇯🇵 JA
+
+* [🏠 ホームページ](ja/home\_page.md)
+* [🔘 利用規約](ja/tos/README.md)
+  * [🔵 プラグイン](ja/tos/plugins.md)
+
+## 🇨🇳 ZH
+
+* [🏠 主页](zh/home\_page.md)
+* [🔘 服务条款](zh/tos/README.md)
+  * [🔵 插件](zh/tos/plugins.md)
+
+## 📛 Banned users <a href="#ban-user" id="ban-user"></a>
+
+* [🚫 Page 1](ban-user/page-1.md)
